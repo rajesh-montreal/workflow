@@ -1,1 +1,6 @@
 Initial Code
+
+feature2()
+{
+
+}
